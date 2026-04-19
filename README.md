@@ -1,7 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nomit+Bagaria!;" />
 </h1>
----
 
 #### ✨Thanks for stopping by
 
@@ -33,8 +32,10 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=-------&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=-------" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bagarianomit-ux
+&show_icons=true&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagarianomit-ux
+" />
 </p>
 
 ---
