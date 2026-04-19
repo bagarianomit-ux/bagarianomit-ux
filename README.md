@@ -30,15 +30,12 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagarianomit-ux&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bagarianomit-ux
-&show_icons=true&theme=default" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bagarianomit-ux
-" />
-</p>
-
----
+###
 
 ## 🌐 Connect With Me
 
@@ -61,7 +58,7 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 - ⏳ Explore Databricks (Big Data Processing, Spark Basics)
 ---
 
-## 💬 Fun Note
+## 💬 
 
 Still figuring things out, one dataset at a time 😄  
 If you're also learning data analytics, we're in this together!
