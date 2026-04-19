@@ -2,11 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nomit+Bagaria!;" />
 </h1>
 </h1>
-<h3 align="center">An Aspiring Data Analyst from India</h3>
+<h3 align="center">An Aspiring Data Analyst </h3>
 
 ---
 
-#### Thanks for stopping by ✨
+#### ✨Thanks for stopping by
 
 I’m an **aspiring Data Analyst** passionate about solving real-world problems using data.  
 Currently focused on building strong foundations in **SQL, Python, and Data Visualization**.
@@ -14,49 +14,11 @@ Currently focused on building strong foundations in **SQL, Python, and Data Visu
 🔎 What you’ll find here:
 - 📊 Portfolio projects with real insights  
 - 📙 My learning journey (mistakes + lessons)  
-- ⛏️ Practical implementations of data analysis concepts  
+- ⛏️ Practical implementations of data analytics concepts  
 
 🎯 My goal:  
 To become a **job-ready data analyst** by mastering data storytelling, business thinking, and analytical skills.
 
----
-
-## 📌 Featured Projects
-
-### 🔹 Project 1: -------
-📊 Problem: -------  
-🛠️ Tools: -------  
-📈 Key Insight: -------  
-🔗 GitHub Repo: $$$$$$$$ *(Paste repo link)*  
-
----
-
-### 🔹 Project 2: -------
-📊 Problem: -------  
-🛠️ Tools: -------  
-📈 Key Insight: -------  
-🔗 GitHub Repo: $$$$$$$$  
-
----
-
-### 🔹 Project 3: -------
-📊 Problem: -------  
-🛠️ Tools: -------  
-📈 Key Insight: -------  
-🔗 GitHub Repo: $$$$$$$$  
-
----
-
-## 📚 Learning Goals (2026)
-
-- ✅ Master **SQL (Advanced Queries, Window Functions)**
-- ✅ Improve **Python for Data Analysis (Pandas, NumPy)**
-- ✅ Build **5+ End-to-End Portfolio Projects**
-- 🔄 Learn **Power BI / Tableau (Dashboarding)**
-- 🔄 Understand **Statistics for Data Analysis**
-- 🔄 Practice **Case Studies & Business Problems**
-
----
 
 ## 🧰 Tech Stack
 
@@ -81,19 +43,30 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ---
 
 ## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]($$$$$$$$) *(Your LinkedIn profile)*  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=plastic)]($$$$$$$$) *(Your portfolio website if any)*  
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Message-red?style=plastic)](mailto:-------)  
+<div align="left">
+  <a href="www.linkedin.com/in/nomitbagaria" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/nomitbagaria" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="bagarianomit@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
 
 ---
 
-## 🧠 Currently Learning
-
-- -------
-- -------
-- -------
-
+## 📚 Learning Goals (2026)
+✅ Master SQL (Advanced Queries, Window Functions)
+✅ Python for Data Analysis (Pandas, NumPy)
+✅ Learn Excel (Data Analysis, Functions, Basics)
+✅ Learn Power BI (Dashboarding, DAX, Data Modeling)
+🔄 Build End-to-End Portfolio Projects
+🔄 Understand Statistics for Data Analysis
+🔄 Practice Case Studies & Business Problem Solving
+⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
+⏳ Explore Databricks (Big Data Processing, Spark Basics)
 ---
 
 ## 💬 Fun Note
