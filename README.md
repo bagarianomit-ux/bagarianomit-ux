@@ -29,20 +29,19 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagarianomit-ux&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 ## 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomitbagaria) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomitbagaria) 
 
 ---
+## 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bagarianomit-ux&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 ## 📚 Learning Goals (2026)
 
