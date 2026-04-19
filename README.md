@@ -35,12 +35,6 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomitbagaria) 
 
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=16&order=3" height="300" alt="streak graph"  />
-</div>
-
 ## 📚 Learning Goals (2026)
 
 
@@ -53,6 +47,13 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 - 🔄 Practice Case Studies & Business Problem Solving
 - ⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
 - ⏳ Explore Databricks (Big Data Processing, Spark Basics)
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=16&order=3" height="300" alt="streak graph"  />
+</div>
+
 ---
 
 ## 💬 
