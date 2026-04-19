@@ -16,7 +16,13 @@ Currently focused on building strong foundations in **SQL, Python, and Data Visu
 To become a **job-ready data analyst** by mastering data storytelling, business thinking, and analytical skills.
 
 
-## 🧰 Tech Stack
+## 🌐 Connect With Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomitbagaria) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomitbagaria) 
+
+
+## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/sql-%2300748F.svg?style=plastic&logo=postgresql&logoColor=white)
@@ -26,12 +32,6 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ![Seaborn](https://img.shields.io/badge/seaborn-%23000000.svg?style=plastic)
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
-
-
-## 🌐 Connect With Me
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomitbagaria) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomitbagaria) 
 
 ---
 <br clear="both">
