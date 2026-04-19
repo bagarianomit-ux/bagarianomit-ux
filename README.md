@@ -1,9 +1,6 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nomit+Bagaria!;" />
 </h1>
-</h1>
-<h3 align="center">An Aspiring Data Analyst </h3>
-
 ---
 
 #### ✨Thanks for stopping by
@@ -43,30 +40,24 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ---
 
 ## 🌐 Connect With Me
-<div align="left">
-  <a href="www.linkedin.com/in/nomitbagaria" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/nomitbagaria" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="bagarianomit@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nomitbagaria) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomitbagaria) 
 
 ---
 
 ## 📚 Learning Goals (2026)
-✅ Master SQL (Advanced Queries, Window Functions)
-✅ Python for Data Analysis (Pandas, NumPy)
-✅ Learn Excel (Data Analysis, Functions, Basics)
-✅ Learn Power BI (Dashboarding, DAX, Data Modeling)
-🔄 Build End-to-End Portfolio Projects
-🔄 Understand Statistics for Data Analysis
-🔄 Practice Case Studies & Business Problem Solving
-⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
-⏳ Explore Databricks (Big Data Processing, Spark Basics)
+
+
+- ✅ Master SQL (Advanced Queries, Window Functions)
+- ✅ Python for Data Analysis (Pandas, NumPy)
+- ✅ Learn Excel (Data Analysis, Functions, Basics)
+- ✅ Learn Power BI (Dashboarding, DAX, Data Modeling)
+- 🔄 Build End-to-End Portfolio Projects
+- 🔄 Understand Statistics for Data Analysis
+- 🔄 Practice Case Studies & Business Problem Solving
+- ⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
+- ⏳ Explore Databricks (Big Data Processing, Spark Basics)
 ---
 
 ## 💬 Fun Note
