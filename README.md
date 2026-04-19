@@ -54,10 +54,9 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 - ⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
 - ⏳ Explore Databricks (Big Data Processing, Spark Basics)
 
----
+--
 
-## 💬 
+# 💬 
 Still figuring things out, one dataset at a time 😄  
 If you're also learning data analytics, we're in this together!
-
 ⭐ *If you like my work, consider giving a star to my repositories!*
