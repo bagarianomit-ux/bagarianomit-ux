@@ -49,8 +49,6 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 - ✅ Learn Excel (Data Analysis, Functions, Basics)
 - ✅ Learn Power BI (Dashboarding, DAX, Data Modeling)
 - 🔄 Build End-to-End Portfolio Projects
-- 🔄 Understand Statistics for Data Analysis
-- 🔄 Practice Case Studies & Business Problem Solving
 - ⏳ Explore Microsoft Fabric (Data Engineering & Analytics)
 - ⏳ Explore Databricks (Big Data Processing, Spark Basics)
 
