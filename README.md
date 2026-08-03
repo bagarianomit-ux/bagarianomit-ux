@@ -33,13 +33,6 @@ To become a **job-ready data analyst** by mastering data storytelling, business 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/excel-217346?style=plastic&logo=microsoft-excel&logoColor=white)
 
----
-<br clear="both">
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bagarianomit-ux&locale=en&mode=daily&theme=chartreuse-dark&hide_border=true&border_radius=16&order=3" height="300" alt="streak graph"  />
-</div>
-
 
 ## 📚 Learning Goals (2026)
 
